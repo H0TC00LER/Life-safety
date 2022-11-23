@@ -1,2 +1,2 @@
-# Safety-of-life
+# Life-safety
 First semester job
