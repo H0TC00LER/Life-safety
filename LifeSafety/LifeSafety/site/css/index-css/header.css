@@ -1,0 +1,46 @@
+.header-container{
+    display: grid;
+    grid-template-rows: 3fr 1fr 5px;
+    background-color: cornflowerblue;
+    height: 150px;
+    color: aliceblue;
+}
+
+.header-title-container{
+
+}
+
+.header-title{
+    font-size: 40px;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+
+.header-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 160px;
+    margin-left: 160px;
+    
+}
+
+.header-menu-element{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.menu-text{
+    display: flex;
+    align-items: center;
+}
+
+.header-menu-element:hover{
+    background-color: darkblue;
+    border-radius: 10px 10px 0 0;
+}
+
+.header-dec-line{
+    background-color: darkblue;
+}
